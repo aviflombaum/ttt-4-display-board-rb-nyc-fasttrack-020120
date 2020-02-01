@@ -11,3 +11,7 @@ def display_board(the_board)
 end
 
 display_board(turn_1)
+
+turn_2 = ["X", " ", " "," ", "O", " " ," ", " ", " "  ]
+
+display_board(turn_2)
